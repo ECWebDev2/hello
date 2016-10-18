@@ -31,14 +31,9 @@ pixel to em conversion-----  http://www.w3schools.com/tags/ref_pxtoemconversion.
 
 Navigation bar,horizontal */
 
-#nav {
-    list-style-type: none;
-    display: inline-block;
-    margin: 25px;
-    padding: 10px;
-    overflow: hidden;
-    background-color: #0a290a;
-    border: 3px solid #555414;
+body {
+    background-color: #b3b3b3;
+    
 }
 
 /* home is the class for all list items on the navigation bar */
